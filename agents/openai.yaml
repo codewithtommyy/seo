@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google SEO Match"
+  short_description: "Check pages and content against Google's SEO Starter Guide"
+  default_prompt: "Audit this against $google-search-seo-match."
