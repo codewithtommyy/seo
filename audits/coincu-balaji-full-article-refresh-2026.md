@@ -217,6 +217,157 @@ He has contributed through entrepreneurship, investing, public education, market
 - **the FAQ answers no longer overstate private holdings as verified**
 - **a standalone disclaimer has been added**
 
+## Internal and external links by section
+
+Use the links below directly in the CMS where they fit naturally. The anchor text is written to be descriptive rather than stuffed.
+
+### Opening section
+
+- Internal link anchor: `Coincu`
+  Suggested target: `https://coincu.com/`
+- Internal link anchor: `cryptocurrency markets`
+  Suggested target: a relevant Coincu category, explainer, or crypto market hub page
+- External link anchor: `Coinbase`
+  Suggested target: `https://www.coinbase.com/`
+- External link anchor: `Andreessen Horowitz`
+  Suggested target: `https://a16z.com/`
+
+### Who is Balaji Srinivasan?
+
+- Internal link anchor: `Coinbase`
+  Suggested target: a Coincu company profile or news tag page for Coinbase
+- Internal link anchor: `The Network State`
+  Suggested target: a Coincu article or explainer on network states if available
+- External link anchor: `Coinbase`
+  Suggested target: `https://www.coinbase.com/`
+- External link anchor: `Andreessen Horowitz`
+  Suggested target: `https://a16z.com/`
+
+### How We Estimate Balaji Srinivasan's Net Worth
+
+- Internal link anchor: `publicly available information`
+  Suggested target: a Coincu editorial standards or source methodology page if available
+- External link anchor: `Myriad Genetics acquisition of Counsyl`
+  Suggested target: a strong business or company source covering the acquisition
+- External link anchor: `Coinbase acquisition of Earn.com`
+  Suggested target: a strong business or company source covering the acquisition
+
+### Early Life and Education
+
+- External link anchor: `Stanford University`
+  Suggested target: `https://www.stanford.edu/`
+- External link anchor: `Stanford profile`
+  Suggested target: use only if you have a verified profile or mention tied to Balaji Srinivasan
+
+### Early Career and Entrepreneurship
+
+- Internal link anchor: `cryptocurrency industry`
+  Suggested target: a Coincu crypto industry overview, company, or ecosystem page
+- External link anchor: `Earn.com`
+  Suggested target: a reliable archived company or acquisition source
+- External link anchor: `Counsyl`
+  Suggested target: a reliable company or acquisition source
+
+### General Partner at Andreessen Horowitz
+
+- Internal link anchor: `venture capital`
+  Suggested target: a Coincu venture capital or funding explainer if available
+- External link anchor: `Andreessen Horowitz`
+  Suggested target: `https://a16z.com/`
+- External link anchor: `general partner`
+  Suggested target: a16z archive or profile page mentioning Balaji Srinivasan
+
+### Role in Coinbase
+
+- Internal link anchor: `Coinbase`
+  Suggested target: a Coincu Coinbase tag, company page, or major Coinbase background piece
+- Internal link anchor: `cryptocurrency industry`
+  Suggested target: a relevant Coincu category or hub page
+- External link anchor: `Coinbase acquired Earn.com`
+  Suggested target: a reliable report or Coinbase announcement on the acquisition
+- External link anchor: `Chief Technology Officer at Coinbase`
+  Suggested target: a Coinbase or reliable profile source confirming the role
+
+### The Network State
+
+- Internal link anchor: `decentralized governance`
+  Suggested target: a Coincu explainer on governance, DAOs, or decentralization
+- External link anchor: `The Network State`
+  Suggested target: the official project or book site
+
+### Balaji Srinivasan Net Worth and Assets
+
+- Internal link anchor: `Coinbase`
+  Suggested target: a Coincu Coinbase article or tag page
+- Internal link anchor: `Bitcoin`
+  Suggested target: a Coincu Bitcoin hub or explainer
+- External link anchor: `Myriad Genetics acquired Counsyl`
+  Suggested target: a reliable acquisition source
+- External link anchor: `Coinbase acquired Earn.com in 2018`
+  Suggested target: a reliable acquisition source
+- External link anchor: `Andreessen Horowitz`
+  Suggested target: `https://a16z.com/`
+
+### Balaji Srinivasan's Investment Portfolio
+
+- Internal link anchor: `blockchain infrastructure`
+  Suggested target: a Coincu blockchain infrastructure explainer or sector page
+- Internal link anchor: `Bitcoin`
+  Suggested target: a Coincu Bitcoin hub or explainer
+- External link anchor: `Bitcoin`
+  Suggested target: `https://bitcoin.org/en/`
+
+### Balaji Srinivasan Contributions
+
+- Internal link anchor: `blockchain technology`
+  Suggested target: a Coincu blockchain explainer
+- Internal link anchor: `Web3`
+  Suggested target: a Coincu Web3 explainer or category page
+- External link anchor: `decentralized systems`
+  Suggested target: use only if you have a high-trust explainer or original Balaji source worth citing
+
+### Public Opinions and Controversies
+
+- Internal link anchor: `Bitcoin-related predictions`
+  Suggested target: a Coincu article covering his well-known Bitcoin wager or prediction
+- Internal link anchor: `crypto figures`
+  Suggested target: the Coincu `Crypto Millionaire` or related people/category hub
+- External link anchor: `public wagers`
+  Suggested target: the primary source or a reliable report on the relevant public wager
+
+### Conclusion
+
+- Internal link anchor: `startup exits`
+  Suggested target: a Coincu startup, M&A, or venture category page
+- Internal link anchor: `crypto economy`
+  Suggested target: a Coincu market overview or ecosystem hub page
+
+### FAQ section
+
+- Internal link anchor: `Coinbase`
+  Suggested target: a Coincu Coinbase page
+- Internal link anchor: `Andreessen Horowitz`
+  Suggested target: a Coincu article or tag page about a16z if available
+- External link anchor: `Coinbase`
+  Suggested target: `https://www.coinbase.com/`
+- External link anchor: `Andreessen Horowitz`
+  Suggested target: `https://a16z.com/`
+
+## Recommended external source list
+
+- `Myriad Genetics acquisition of Counsyl`
+  Use a primary company release or strong business reporting source.
+- `Coinbase acquisition of Earn.com`
+  Use Coinbase's announcement or strong business reporting.
+- `Andreessen Horowitz`
+  Use `https://a16z.com/`.
+- `Coinbase`
+  Use `https://www.coinbase.com/`.
+- `Stanford University`
+  Use `https://www.stanford.edu/`.
+- `The Network State`
+  Use the official project or book site.
+
 ## Keep these implementation notes in mind
 
 1. Add real source links in the CMS for Counsyl, Earn.com, Coinbase, and Andreessen Horowitz.
