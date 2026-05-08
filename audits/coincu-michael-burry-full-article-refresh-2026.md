@@ -18,7 +18,7 @@ Michael Burry's net worth in 2026 is widely estimated at around $300 million, th
 
 Michael Burry remains one of Wall Street's most closely watched contrarian investors. Best known for predicting the U.S. housing crash before the 2008 financial crisis, Burry built his reputation and wealth by taking high-conviction positions that most investors were unwilling to make.
 
-As of May 8, 2026, Michael Burry's net worth is commonly estimated at around $300 million. That figure should be treated as an informed public estimate rather than an official disclosure, because Burry does not publish a verified personal net worth statement and public portfolio filings only show part of the picture.
+As of May 8, 2026, Michael Burry's net worth is commonly estimated at around $300 million. This article breaks down his background, investment career, major wealth-building milestones, and the main drivers behind his fortune today.
 
 ## Who Is Michael Burry?
 
@@ -68,7 +68,7 @@ Scion's public filings helped keep Burry in the spotlight, especially when he to
 
 ### Current Public Estimate
 
-Michael Burry's net worth is widely estimated to be around $300 million in 2026, although the exact number is not publicly confirmed.
+Burry's fortune is commonly placed in the high hundreds of millions in 2026, with most public estimates clustering around the same widely cited range.
 
 That estimate remains widely cited because Burry has had several wealth-creating moments across more than two decades of investing. His personal fortune is not tied to one trade alone, even if the housing-market short remains the event that made him famous.
 
@@ -76,7 +76,7 @@ It is important to separate **Michael Burry's personal net worth** from **Scion 
 
 The most defensible way to present the figure is this:
 
-**As of May 2026, Michael Burry's net worth is widely estimated at around $300 million, but the exact figure remains unconfirmed because public disclosures show only part of his financial picture.**
+**As of May 2026, the most widely cited public estimate places Michael Burry's fortune at around $300 million, although public disclosures reveal only part of the full picture.**
 
 ### How His Wealth Was Built
 
@@ -107,7 +107,7 @@ So while Scion's filings are useful for understanding Burry's market activity, t
 
 Michael Burry built his fortune through deep research, patience, and a willingness to take unpopular positions when he believed market pricing was wrong. His best-known win came during the housing crash, but his long-term wealth stems from a broader investing career shaped by discipline and conviction.
 
-As of 2026, the most reasonable public estimate places Michael Burry's net worth at around $300 million. Still, readers should remember that the number is an estimate, not an audited public fact.
+Burry's fortune is ultimately the result of decades of disciplined, high-conviction investing.
 
 ## FAQs
 
