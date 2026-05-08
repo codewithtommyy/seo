@@ -1,0 +1,57 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="80" y1="70" x2="1040" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0D7BC"/>
+      <stop offset="1" stop-color="#E2B58C"/>
+    </linearGradient>
+    <linearGradient id="panel1" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFB38A"/>
+      <stop offset="1" stop-color="#E06A4A"/>
+    </linearGradient>
+    <filter id="grain1" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.07"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg1)"/>
+  <rect width="1200" height="630" fill="#2C1113" opacity="0.05"/>
+
+  <polygon points="0,630 0,350 280,250 280,630" fill="#7B2020"/>
+  <polygon points="280,630 280,250 540,180 540,630" fill="#A22B22"/>
+  <polygon points="540,630 540,180 740,150 740,630" fill="#C44A2F"/>
+
+  <rect x="760" y="108" width="300" height="202" rx="18" fill="url(#panel1)" stroke="#2C1113" stroke-width="4"/>
+  <rect x="796" y="154" width="168" height="112" rx="18" fill="#F2D7BE" stroke="#2C1113" stroke-width="4"/>
+  <rect x="832" y="112" width="132" height="28" rx="12" fill="#2C1113"/>
+  <path d="M857 198H905L890 214H842L857 198Z" fill="#E05039" stroke="#2C1113" stroke-width="3"/>
+  <path d="M932 198H997L981 214H916L932 198Z" fill="#F4A07E" stroke="#2C1113" stroke-width="3"/>
+  <path d="M857 228H905L890 244H842L857 228Z" fill="#F4A07E" stroke="#2C1113" stroke-width="3"/>
+  <path d="M932 228H997L981 244H916L932 228Z" fill="#E05039" stroke="#2C1113" stroke-width="3"/>
+  <polygon points="760,310 1060,310 1015,395 715,395" fill="#641919"/>
+
+  <g>
+    <circle cx="916" cy="452" r="122" fill="#F3D5BD" stroke="#2C1113" stroke-width="6"/>
+    <path d="M866 387H960L1002 427V517H908L866 477V387Z" fill="#E05039" stroke="#2C1113" stroke-width="6"/>
+    <path d="M908 517V428H1002" fill="#F4B48F"/>
+    <path d="M908 517V428H1002" stroke="#2C1113" stroke-width="6"/>
+    <path d="M904 421L881 444L904 467" stroke="#2C1113" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M958 421L981 444L958 467" stroke="#2C1113" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="814" y="508" width="188" height="20" rx="10" fill="#2C1113" opacity="0.18"/>
+  </g>
+
+  <path d="M96 112H475" stroke="#2C1113" stroke-width="6"/>
+  <path d="M96 146H420" stroke="#2C1113" stroke-width="2" opacity="0.55"/>
+  <text x="96" y="248" fill="#2C1113" font-size="66" font-weight="800" font-family="Arial, Helvetica, sans-serif">RABBY WALLET</text>
+  <text x="96" y="316" fill="#2C1113" font-size="66" font-weight="800" font-family="Arial, Helvetica, sans-serif">REVIEW 2026</text>
+  <text x="96" y="388" fill="#5B1B1A" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">SECURITY  •  EVM UX  •  MULTI-PLATFORM</text>
+  <text x="96" y="468" fill="#2C1113" font-size="26" font-weight="700" font-family="Arial, Helvetica, sans-serif">Editorial print mood with hard-shadow wallet iconography</text>
+
+  <rect x="92" y="506" width="376" height="52" rx="26" fill="#2C1113"/>
+  <text x="124" y="540" fill="#F4DCC4" font-size="24" font-weight="700" font-family="Arial, Helvetica, sans-serif">COINCU  /  OTHER REVIEWS</text>
+
+  <rect width="1200" height="630" fill="#5F130F" opacity="0.1" filter="url(#grain1)"/>
+</svg>
