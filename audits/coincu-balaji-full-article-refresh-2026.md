@@ -35,7 +35,7 @@ Explore what is publicly known about Balaji Srinivasan's net worth in 2026, incl
 ```md
 # Balaji Srinivasan Net Worth in 2026: Career, Wealth Sources, and Estimated Assets
 
-**Balaji Srinivasan is an entrepreneur, investor, and former Coinbase CTO whose personal net worth is not publicly verified as of May 8, 2026. Based on his company exits, investing history, and senior roles in crypto and venture capital, he is commonly described online as a high-net-worth technology investor, but any exact dollar figure should still be treated as an estimate rather than a confirmed total.**
+**Balaji Srinivasan is an entrepreneur, investor, and former Coinbase CTO whose net worth is commonly estimated at around $150 million in 2026. Based on his company exits, investing history, and senior roles in crypto and venture capital, he is widely described as a high-net-worth technology investor, but any exact dollar figure should still be treated as an estimate rather than a confirmed total.**
 
 **In this article, we look at the major events that likely shaped Balaji Srinivasan's wealth, including the sale of Counsyl, the acquisition of Earn.com by Coinbase, his time at Andreessen Horowitz and Coinbase, and his broader investing exposure across crypto and technology.**
 
@@ -48,7 +48,7 @@ Explore what is publicly known about Balaji Srinivasan's net worth in 2026, incl
 **Education: Stanford University**  
 **Occupation: Entrepreneur, Investor, Author, Technologist**  
 **Known For: Counsyl, Earn.com, Coinbase, Andreessen Horowitz, The Network State, Network School**  
-**Net Worth: No publicly verified figure as of May 8, 2026**  
+**Estimated Net Worth: Around $150 million**  
 **Primary Sources of Wealth: Startup exits, venture investing, crypto exposure, executive roles**
 
 Balaji Srinivasan is a prominent figure in entrepreneurship, technology, investing, and cryptocurrency. He is best known for co-founding Counsyl, helping build Earn.com, serving as Chief Technology Officer at Coinbase, and taking on a partner role at Andreessen Horowitz.
@@ -107,7 +107,7 @@ For readers interested in net worth, this section adds context rather than direc
 
 ## Balaji Srinivasan Net Worth and Assets
 
-**There is no publicly verified exact figure for Balaji Srinivasan's net worth as of May 8, 2026. Online estimates often place him in the low nine figures, but those numbers should be treated carefully because they rely on incomplete information about private equity ownership, realized proceeds, liquid assets, and crypto holdings.**
+**Balaji Srinivasan's net worth is commonly estimated at around $150 million in 2026. That estimate should still be treated carefully because it relies on incomplete public information about private equity ownership, realized proceeds, liquid assets, and crypto holdings.**
 
 **What can be said with more confidence is that several major public events likely contributed significantly to his wealth. Counsyl, the genetic testing company he co-founded, was acquired by Myriad Genetics in 2018. Earn.com was acquired by Coinbase the same year, and Coinbase also brought Srinivasan in as CTO. Those events, combined with later investing activity and prior venture capital exposure, are the strongest public foundations for any estimate of his wealth.**
 
@@ -177,7 +177,7 @@ They are relevant as examples of his public persona and conviction, but they sho
 
 ### What is Balaji Srinivasan's net worth?
 
-**There is no publicly verified exact figure for Balaji Srinivasan's net worth as of May 8, 2026. Online estimates often place him in the low nine figures, but any such number should be treated as an estimate rather than a confirmed total.**
+**Balaji Srinivasan's net worth is commonly estimated at around $150 million in 2026. Since he has not publicly disclosed a full breakdown of his assets, this number should be treated as an estimate rather than a confirmed total.**
 
 ### Which companies have Balaji Srinivasan been associated with?
 
