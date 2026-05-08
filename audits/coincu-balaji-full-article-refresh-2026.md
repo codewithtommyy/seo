@@ -117,11 +117,20 @@ For readers interested in net worth, this section adds context rather than direc
 
 ## Balaji Srinivasan's Investment Portfolio
 
-**Balaji Srinivasan is closely associated with cryptocurrency, blockchain infrastructure, and frontier technology investing. Publicly, he is best known for his strong conviction in Bitcoin and for backing innovation across crypto, software, biotech, and decentralized systems.**
+**Balaji Srinivasan's investment portfolio in 2026 is built around early-stage technology, crypto infrastructure, AI, privacy, and frontier biotech. His investing activity is widely described as high volume, with more than 300 reported angel investments across startups and protocols.**
 
-**However, most details about his personal investment portfolio remain private. His current official bio highlights early investments in companies and protocols such as Alchemy, Anduril, Benchling, CoinTracker, OpenSea, Perplexity, Polychain, Polymarket, Replit, Solana, Avalanche, Chainlink, Polygon, and Zcash, among others. Even so, the exact size, cost basis, and liquidity of those positions are not publicly disclosed.**
+**| Investment Area | Examples | Why It Matters |**
+**|---|---|---|**
+**| AI Infrastructure | OpenGradient, Prime Intellect | Shows a recent shift toward foundational AI systems and decentralized compute. |**
+**| Bitcoin Ecosystem | Project Eleven | Reflects continued interest in Bitcoin security, data, and infrastructure. |**
+**| Privacy and Identity | 0xbow, ZODL | Fits his long-term focus on cryptography, privacy, and digital sovereignty. |**
+**| High-Growth Startups | Perplexity, OpenSea, Alchemy, Polymarket | Represents exposure to major private technology and Web3 companies. |**
+**| Digital Assets | Bitcoin, Ethereum, Solana, Avalanche, NEAR | Suggests long-term conviction in core crypto networks, though exact holdings are not public. |**
+**| Frontier Tech | Ultrahuman, Benchling | Extends his portfolio beyond crypto into biotech, longevity, and human performance. |**
+**| Venture Platform | Balaji Fund | Scales his seed investing across frontier technology and startup-society themes. |**
+**| Recent Exits | Gitcoin, Magna, Opyn | Shows that parts of his earlier portfolio have already reached liquidity events. |**
 
-**Beyond crypto, Srinivasan's background suggests broad exposure to venture investing across software, biotech, internet infrastructure, and network-state-adjacent ventures. That breadth is one reason his personal net worth is difficult to model precisely from public information alone.**
+**Overall, Srinivasan's portfolio reflects a consistent investment thesis: backing infrastructure for digital-first communities, AI-and-blockchain convergence, and long-term frontier technologies rather than short-term market hype.**
 
 ## Balaji Srinivasan Contributions
 
