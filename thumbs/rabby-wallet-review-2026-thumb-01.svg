@@ -1,72 +1,42 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="paper" x1="88" y1="72" x2="1114" y2="606" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F2DBC2"/>
-      <stop offset="1" stop-color="#E6AD88"/>
-    </linearGradient>
-    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#F1A07F"/>
-      <stop offset="1" stop-color="#D95E3F"/>
+    <linearGradient id="wash" x1="104" y1="72" x2="1112" y2="612" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1D9C0"/>
+      <stop offset="1" stop-color="#E3A985"/>
     </linearGradient>
     <filter id="grain" x="-20%" y="-20%" width="140%" height="140%">
       <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="saturate" values="0"/>
       <feComponentTransfer>
-        <feFuncA type="table" tableValues="0 0.07"/>
+        <feFuncA type="table" tableValues="0 0.06"/>
       </feComponentTransfer>
     </filter>
+    <clipPath id="shotA">
+      <rect x="390" y="56" width="748" height="518" rx="24"/>
+    </clipPath>
   </defs>
 
-  <rect width="1200" height="630" fill="url(#paper)"/>
+  <rect width="1200" height="630" fill="url(#wash)"/>
+  <polygon points="0,630 0,0 468,0 338,630" fill="#6C1B1B"/>
+  <polygon points="468,0 1200,0 1200,630 338,630" fill="#C74B31"/>
 
-  <polygon points="0,630 0,0 490,0 370,630" fill="#6F1A1B"/>
-  <polygon points="490,0 1200,0 1200,630 370,630" fill="#BD432D"/>
-  <polygon points="490,0 690,0 570,630 370,630" fill="#F0A482" opacity="0.82"/>
-
-  <rect x="84" y="76" width="454" height="474" rx="22" fill="#F4E0CB" stroke="#261114" stroke-width="5"/>
-  <text x="122" y="132" fill="#261114" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">COINCU / OTHER REVIEWS</text>
-  <rect x="122" y="152" width="148" height="4" rx="2" fill="#261114"/>
-
-  <text x="120" y="256" fill="#261114" font-size="96" font-weight="900" font-family="Arial, Helvetica, sans-serif">RABBY</text>
-  <text x="120" y="344" fill="#261114" font-size="96" font-weight="900" font-family="Arial, Helvetica, sans-serif">WALLET</text>
-  <text x="120" y="432" fill="#261114" font-size="96" font-weight="900" font-family="Arial, Helvetica, sans-serif">REVIEW</text>
-
-  <rect x="122" y="470" width="168" height="42" rx="21" fill="#261114"/>
-  <text x="154" y="498" fill="#F4E0CB" font-size="24" font-weight="800" font-family="Arial, Helvetica, sans-serif">2026</text>
-  <text x="122" y="536" fill="#78211F" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">SECURITY • EVM UX • DEFI</text>
-
-  <g transform="translate(650 92) rotate(-6 250 214)">
-    <rect x="0" y="0" width="500" height="428" rx="30" fill="#F4E0CB" stroke="#261114" stroke-width="6"/>
-    <rect x="20" y="20" width="460" height="388" rx="22" fill="#2A1214"/>
-    <rect x="42" y="42" width="416" height="344" rx="18" fill="#F5C2A3"/>
-
-    <rect x="72" y="72" width="114" height="14" rx="7" fill="#261114"/>
-    <rect x="72" y="104" width="214" height="12" rx="6" fill="#D55A3C"/>
-    <rect x="72" y="128" width="164" height="12" rx="6" fill="#F09F7D"/>
-
-    <rect x="72" y="166" width="170" height="150" rx="18" fill="url(#orange)" stroke="#261114" stroke-width="4"/>
-    <rect x="262" y="166" width="126" height="68" rx="16" fill="#F4E0CB" stroke="#261114" stroke-width="4"/>
-    <rect x="262" y="248" width="126" height="68" rx="16" fill="#E06D4C" stroke="#261114" stroke-width="4"/>
-
-    <rect x="72" y="334" width="316" height="22" rx="11" fill="#261114" opacity="0.15"/>
-    <rect x="72" y="352" width="188" height="12" rx="6" fill="#D55A3C"/>
-
-    <path d="M150 204L166 236H202L173 254L184 287L150 267L116 287L127 254L98 236H134L150 204Z" fill="#261114"/>
-
-    <g transform="translate(285 188)">
-      <circle cx="41" cy="15" r="15" fill="#261114"/>
-      <path d="M41 6V16H50" stroke="#F4E0CB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    </g>
-
-    <g transform="translate(285 270)">
-      <rect x="0" y="0" width="82" height="22" rx="11" fill="#261114"/>
-      <text x="17" y="15" fill="#F4E0CB" font-size="12" font-weight="800" font-family="Arial, Helvetica, sans-serif">ALERT</text>
-    </g>
+  <g clip-path="url(#shotA)">
+    <image href="assets/rabby-hero.png" x="330" y="24" width="868" height="578" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="390" y="56" width="748" height="518" fill="#2A1214" opacity="0.16"/>
+    <rect x="390" y="56" width="748" height="518" fill="#7E201E" opacity="0.12"/>
   </g>
+  <rect x="390" y="56" width="748" height="518" rx="24" stroke="#291113" stroke-width="5"/>
+  <polygon points="390,574 1138,574 1080,630 332,630" fill="#621818"/>
 
-  <polygon points="650,520 1144,470 1086,578 592,628" fill="#611919"/>
-
-  <text x="662" y="576" fill="#F4E0CB" font-size="26" font-weight="800" font-family="Arial, Helvetica, sans-serif">TRANSACTION SIMULATION / SIGNING ALERTS / MULTI-DEVICE SUPPORT</text>
+  <rect x="78" y="72" width="360" height="486" rx="22" fill="#F4E0CB" stroke="#291113" stroke-width="5"/>
+  <text x="112" y="126" fill="#291113" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">COINCU / OTHER REVIEWS</text>
+  <text x="110" y="240" fill="#291113" font-size="92" font-weight="900" font-family="Arial, Helvetica, sans-serif">RABBY</text>
+  <text x="110" y="322" fill="#291113" font-size="92" font-weight="900" font-family="Arial, Helvetica, sans-serif">REVIEW</text>
+  <rect x="112" y="360" width="132" height="42" rx="21" fill="#291113"/>
+  <text x="140" y="388" fill="#F4E0CB" font-size="24" font-weight="800" font-family="Arial, Helvetica, sans-serif">2026</text>
+  <text x="112" y="458" fill="#7B1F1E" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">SECURITY</text>
+  <text x="112" y="494" fill="#7B1F1E" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">EVM UX</text>
+  <text x="112" y="530" fill="#7B1F1E" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">DEFI</text>
 
   <rect width="1200" height="630" fill="#5B140F" opacity="0.11" filter="url(#grain)"/>
 </svg>
