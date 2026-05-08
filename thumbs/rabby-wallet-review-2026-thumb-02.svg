@@ -1,47 +1,40 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg2" x1="120" y1="60" x2="1030" y2="620" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#EFD7BD"/>
-      <stop offset="1" stop-color="#F2B394"/>
+    <linearGradient id="bg" x1="98" y1="70" x2="1118" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1D9C0"/>
+      <stop offset="1" stop-color="#E4A885"/>
     </linearGradient>
-    <filter id="grain2" x="-20%" y="-20%" width="140%" height="140%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" stitchTiles="stitch"/>
+    <filter id="noise" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="saturate" values="0"/>
       <feComponentTransfer>
-        <feFuncA type="table" tableValues="0 0.08"/>
+        <feFuncA type="table" tableValues="0 0.07"/>
       </feComponentTransfer>
     </filter>
   </defs>
 
-  <rect width="1200" height="630" fill="url(#bg2)"/>
-  <polygon points="0,630 0,0 210,0 210,630" fill="#6D1816"/>
-  <polygon points="210,630 210,0 320,0 320,630" fill="#952220"/>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="630" fill="#421214" opacity="0.04"/>
+  <polygon points="0,510 0,0 760,0 540,510" fill="#741E1E"/>
+  <polygon points="540,510 760,0 1200,0 1200,510" fill="#B83928"/>
+  <polygon points="0,630 0,510 540,510 1200,510 1200,630" fill="#F2DCC6"/>
 
-  <g transform="translate(760 108)">
-    <path d="M120 0L242 42V144C242 218 190 286 120 314C50 286 -2 218 -2 144V42L120 0Z" fill="#F2D8C1" stroke="#2C1113" stroke-width="7"/>
-    <path d="M120 46L194 72V138C194 188 162 234 120 256C78 234 46 188 46 138V72L120 46Z" fill="#E04F39" stroke="#2C1113" stroke-width="6"/>
-    <path d="M120 92L139 129H181L147 151L160 193L120 169L80 193L93 151L59 129H101L120 92Z" fill="#2C1113"/>
-    <polygon points="-2,144 242,144 320,224 76,224" fill="#7B2020"/>
+  <text x="94" y="124" fill="#F3DDC8" font-size="22" font-weight="700" font-family="Arial, Helvetica, sans-serif">COINCU / WALLET REVIEW</text>
+  <text x="92" y="236" fill="#F3DDC8" font-size="84" font-weight="800" font-family="Arial, Helvetica, sans-serif">RABBY</text>
+  <text x="92" y="320" fill="#F3DDC8" font-size="84" font-weight="800" font-family="Arial, Helvetica, sans-serif">WALLET</text>
+  <text x="92" y="404" fill="#F3DDC8" font-size="84" font-weight="800" font-family="Arial, Helvetica, sans-serif">2026</text>
+
+  <g transform="translate(768 92)">
+    <rect x="0" y="0" width="296" height="396" rx="34" fill="#F2DCC6" stroke="#2B1113" stroke-width="6"/>
+    <rect x="102" y="22" width="92" height="10" rx="5" fill="#2B1113"/>
+    <rect x="28" y="54" width="240" height="288" rx="22" fill="#E75D3D" stroke="#2B1113" stroke-width="5"/>
+    <circle cx="148" cy="198" r="74" fill="#F5BE9E" stroke="#2B1113" stroke-width="5"/>
+    <path d="M109 198L137 226L191 172" stroke="#2B1113" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="60" y="362" width="176" height="14" rx="7" fill="#2B1113" opacity="0.22"/>
+    <polygon points="0,396 296,396 240,492 -56,492" fill="#661919"/>
   </g>
 
-  <g transform="translate(680 370)">
-    <rect x="0" y="0" width="380" height="122" rx="20" fill="#F0D6BC" stroke="#2C1113" stroke-width="5"/>
-    <rect x="28" y="28" width="82" height="18" rx="9" fill="#2C1113"/>
-    <rect x="28" y="60" width="316" height="14" rx="7" fill="#D77658"/>
-    <rect x="28" y="88" width="262" height="14" rx="7" fill="#E59B79"/>
-    <rect x="360" y="22" width="64" height="122" fill="#5C1A1A"/>
-  </g>
+  <text x="92" y="562" fill="#2B1113" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">RISK ALERTS  •  SIMULATION  •  MULTI-DEVICE</text>
 
-  <text x="372" y="174" fill="#2C1113" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">WALLET SECURITY REVIEW</text>
-  <text x="372" y="262" fill="#2C1113" font-size="68" font-weight="800" font-family="Arial, Helvetica, sans-serif">RABBY</text>
-  <text x="372" y="332" fill="#2C1113" font-size="68" font-weight="800" font-family="Arial, Helvetica, sans-serif">2026</text>
-  <text x="372" y="404" fill="#6B1E1D" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">SIMULATION  •  ALERTS  •  WHITELIST</text>
-
-  <path d="M372 116H1040" stroke="#2C1113" stroke-width="3" opacity="0.7"/>
-  <path d="M372 450H1040" stroke="#2C1113" stroke-width="3" opacity="0.4"/>
-
-  <rect x="372" y="492" width="298" height="50" rx="25" fill="#2C1113"/>
-  <text x="408" y="525" fill="#F1DCC7" font-size="24" font-weight="700" font-family="Arial, Helvetica, sans-serif">COINCU REVIEW DESK</text>
-
-  <rect width="1200" height="630" fill="#631310" opacity="0.1" filter="url(#grain2)"/>
+  <rect width="1200" height="630" fill="#5A1410" opacity="0.1" filter="url(#noise)"/>
 </svg>
