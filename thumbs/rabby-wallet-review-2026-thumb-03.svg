@@ -1,42 +1,41 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgx" x1="92" y1="82" x2="1128" y2="608" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F0D8BE"/>
-      <stop offset="1" stop-color="#E7AE88"/>
+    <linearGradient id="base" x1="84" y1="62" x2="1116" y2="612" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2D9C0"/>
+      <stop offset="1" stop-color="#E8B18A"/>
     </linearGradient>
-    <filter id="grainx" x="-20%" y="-20%" width="140%" height="140%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="2" stitchTiles="stitch"/>
+    <filter id="grainy" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.82" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="saturate" values="0"/>
       <feComponentTransfer>
-        <feFuncA type="table" tableValues="0 0.08"/>
+        <feFuncA type="table" tableValues="0 0.075"/>
       </feComponentTransfer>
     </filter>
   </defs>
 
-  <rect width="1200" height="630" fill="url(#bgx)"/>
-  <polygon points="0,630 0,102 362,0 362,630" fill="#6F1C1C"/>
-  <polygon points="362,630 362,0 798,0 798,630" fill="#B53B29"/>
-  <polygon points="798,630 798,0 1200,112 1200,630" fill="#F4A986"/>
+  <rect width="1200" height="630" fill="url(#base)"/>
+  <polygon points="0,630 0,0 1200,0 1200,154 0,468" fill="#771D1C"/>
+  <polygon points="0,630 0,468 1200,154 1200,630" fill="#D25A39"/>
 
-  <rect x="116" y="92" width="966" height="446" rx="28" fill="#F3DDC8" stroke="#2B1113" stroke-width="5"/>
-  <text x="156" y="160" fill="#2B1113" font-size="22" font-weight="700" font-family="Arial, Helvetica, sans-serif">EDITORIAL SYSTEM CHECK</text>
-  <text x="154" y="262" fill="#2B1113" font-size="76" font-weight="800" font-family="Arial, Helvetica, sans-serif">RABBY WALLET</text>
-  <text x="154" y="338" fill="#2B1113" font-size="76" font-weight="800" font-family="Arial, Helvetica, sans-serif">REVIEW 2026</text>
-  <text x="156" y="398" fill="#7A1E1E" font-size="30" font-weight="700" font-family="Arial, Helvetica, sans-serif">DEFI UX / SECURITY LAYERS / EVM SUPPORT</text>
+  <rect x="88" y="74" width="1024" height="482" rx="26" fill="#F4E0CB" stroke="#261114" stroke-width="5"/>
+  <text x="124" y="136" fill="#261114" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">EDITORIAL ANALYSIS / WALLET STACK</text>
 
-  <g transform="translate(728 132)">
-    <rect x="0" y="0" width="286" height="212" rx="18" fill="#2B1113"/>
-    <rect x="20" y="20" width="246" height="172" rx="12" fill="#F5BE9E"/>
-    <rect x="42" y="48" width="96" height="18" rx="9" fill="#2B1113"/>
-    <rect x="42" y="84" width="164" height="12" rx="6" fill="#D8573A"/>
-    <rect x="42" y="110" width="136" height="12" rx="6" fill="#EFA17E"/>
-    <rect x="42" y="142" width="92" height="28" rx="14" fill="#B53B29"/>
-    <rect x="152" y="142" width="84" height="28" rx="14" fill="#2B1113"/>
-    <polygon points="286,212 206,292 -80,292 0,212" fill="#6A1A19"/>
+  <text x="122" y="258" fill="#261114" font-size="104" font-weight="900" font-family="Arial, Helvetica, sans-serif">RABBY</text>
+  <text x="122" y="352" fill="#261114" font-size="104" font-weight="900" font-family="Arial, Helvetica, sans-serif">2026</text>
+  <text x="122" y="420" fill="#7A1E1E" font-size="34" font-weight="700" font-family="Arial, Helvetica, sans-serif">WALLET REVIEW / SECURITY / MULTI-PLATFORM</text>
+
+  <g transform="translate(772 116)">
+    <rect x="0" y="0" width="258" height="360" rx="28" fill="#261114"/>
+    <rect x="18" y="18" width="222" height="324" rx="20" fill="#F5C4A6"/>
+    <rect x="74" y="30" width="110" height="8" rx="4" fill="#261114"/>
+    <circle cx="129" cy="142" r="58" fill="#E15D3F" stroke="#261114" stroke-width="5"/>
+    <path d="M101 142H157" stroke="#261114" stroke-width="8" stroke-linecap="round"/>
+    <path d="M129 114V170" stroke="#261114" stroke-width="8" stroke-linecap="round"/>
+    <rect x="40" y="234" width="144" height="18" rx="9" fill="#261114"/>
+    <rect x="40" y="266" width="126" height="12" rx="6" fill="#D55A3C"/>
+    <rect x="40" y="290" width="88" height="12" rx="6" fill="#F0A582"/>
+    <polygon points="0,360 258,360 214,438 -44,438" fill="#631819"/>
   </g>
 
-  <rect x="156" y="456" width="276" height="44" rx="22" fill="#2B1113"/>
-  <text x="190" y="486" fill="#F2DDC8" font-size="22" font-weight="700" font-family="Arial, Helvetica, sans-serif">COINCU / OTHER REVIEWS</text>
-
-  <rect width="1200" height="630" fill="#5C140F" opacity="0.11" filter="url(#grainx)"/>
+  <rect width="1200" height="630" fill="#5B140F" opacity="0.1" filter="url(#grainy)"/>
 </svg>
