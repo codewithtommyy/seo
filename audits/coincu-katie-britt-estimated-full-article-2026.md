@@ -10,29 +10,29 @@
 ### Title
 
 ```text
-Katie Britt Net Worth in 2026: Estimated at $7M-$12M From Salary, Career, and Assets
+Katie Britt Net Worth in 2026: Estimated at $6.8M Based on Quiver Data, Salary, and Career
 ```
 
 ### H1
 
 ```text
-Katie Britt Net Worth in 2026: Estimated at $7M-$12M From Salary, Career, and Assets
+Katie Britt Net Worth in 2026: Estimated at $6.8M Based on Quiver Data, Salary, and Career
 ```
 
 ### Meta description
 
 ```text
-Katie Britt's net worth in 2026 is commonly estimated at $7 million to $12 million. Here's how her Senate salary, legal career, book income, and asset activity shape that estimate.
+Katie Britt's net worth in 2026 is estimated at about $6.8 million based on Quiver Quantitative's live model. Here's how her Senate salary, legal career, book income, and asset activity shape that estimate.
 ```
 
 ## Ready-to-paste full article
 
 ```md
-# Katie Britt Net Worth in 2026: Estimated at $7M-$12M From Salary, Career, and Assets
+# Katie Britt Net Worth in 2026: Estimated at $6.8M Based on Quiver Data, Salary, and Career
 
 Katie Britt is one of Alabama's most prominent Republican politicians, and public interest in Katie Britt net worth has grown as her national profile has expanded.
 
-As of early 2026, Katie Britt's net worth is commonly estimated in the $7 million to $12 million range, with some estimate-driven sources clustering closer to roughly $7.2 million to $7.3 million. That figure is still not an official public balance-sheet number, but it is more useful and more current than pretending there is no workable estimate at all.
+As of late March 2026, Quiver Quantitative's live model estimated Katie Boyd Britt's net worth at about $6.8 million, with roughly $3.8 million invested in publicly traded assets that the platform says it can track live. That figure is still not an official public balance-sheet number, but it gives the article a current estimate grounded in a named methodology rather than leaving readers with no workable number at all.
 
 The most responsible way to present the topic is to separate exact official disclosure from public estimate. Senate financial filings do not give readers one perfectly precise total, but her salary, book income, career history, and disclosed asset activity do support treating her as a multi-millionaire rather than a near-salary-only officeholder.
 
@@ -48,15 +48,16 @@ That career path matters because it gives readers a more realistic way to unders
 
 Katie Britt's net worth in early 2026 is most reasonably described as an estimate rather than a confirmed official total.
 
-Public estimate-oriented sources and congressional portfolio trackers place her broadly in the multi-million range. A cautious editorial range is about $7 million to $12 million, while some source models cluster around roughly $7.2 million to $7.3 million. A lower live estimate from Quiver Quantitative placed Katie Boyd Britt at about $6.8 million as of January 29, 2026.
+Quiver Quantitative's live model placed Katie Boyd Britt at about $6.8 million as of March 24 to March 26, 2026, and also indicated that roughly $3.8 million of that figure was tied to publicly traded assets the platform could track. Earlier Quiver snapshots in February 2026 placed her closer to $7.0 million, while some estimate-style sources outside Quiver have used broader or slightly higher ranges.
 
-Those numbers should not be presented as interchangeable with an official financial statement. But they are still more informative than saying no usable estimate exists at all. The right framing is that Britt appears to be a multi-millionaire based on public estimates tied to filings, career earnings, book income, and tracked market assets.
+That number should not be presented as interchangeable with an official financial statement. But it is still more informative than saying no usable estimate exists at all. The right framing is that Britt appears to be a multi-millionaire based on public estimates tied to filings, career earnings, book income, and tracked market assets.
 
 | Estimate type | Reported figure | How to frame it |
 |---|---|---|
-| Broad public estimate range | About $7M-$12M | Useful range, but not an official government total |
-| Narrower estimate cluster | About $7.2M-$7.3M | Some estimate-style sources use this tighter range |
-| Live tracker estimate | About $6.8M-$6.9M | Model-based tracker estimate, not a formal disclosure total |
+| Quiver live estimate | About $6.8M | Best single number to lead with if using Quiver as the main source |
+| Quiver tracked public-market assets | About $3.8M | Subset of total estimate tied to publicly traded assets |
+| Earlier Quiver snapshot | About $7.0M | Shows the live model can move over time |
+| Broader outside estimate ranges | Higher than Quiver in some cases | Secondary context, not the cleanest lead number |
 | Official exact public total | Not available | Senate disclosures do not publish one exact balance-sheet figure |
 
 ### Sources of Katie Britt's Wealth
@@ -75,7 +76,7 @@ This is why treating Katie Britt as a multi-millionaire in 2026 is more defensib
 | Legal and political career | Meaningful pre-Senate earnings base | High |
 | Business Council of Alabama leadership | Strong executive-income signal | High |
 | Book advance and royalties | Public reporting shows meaningful six-figure author income | Medium |
-| Publicly traded assets tracked by third parties | Supports multi-millionaire status, but depends on tracker methodology | Medium |
+| Publicly traded assets tracked by Quiver | Roughly $3.8M in trackable public-market assets as of late March 2026 | Medium |
 | Exact total household balance sheet | Still not fully public in one official number | Low |
 
 ### Stock Activity and Disclosure Issues
@@ -114,7 +115,7 @@ Katie Britt was born on February 2, 1982, and grew up in Enterprise, Alabama. Ac
 
 ### What is Katie Britt's Net Worth in 2026?
 
-Katie Britt's net worth in early 2026 is commonly estimated in the $7 million to $12 million range. Some estimate-style sources place her closer to roughly $7.2 million to $7.3 million, while tracker-based models have also shown lower live estimates around the high-$6 million range.
+Katie Britt's net worth in 2026 can be reasonably cited at about $6.8 million if using Quiver Quantitative's late-March 2026 live estimate as the lead figure. The platform also showed about $3.8 million in publicly traded assets it could track live.
 
 ### How Much Does Katie Britt Earn as a Senator?
 
@@ -136,15 +137,17 @@ As of 2026, her public Senate activity shows work across appropriations, judicia
 
 This article uses a public-estimate methodology rather than claiming access to Katie Britt's exact private finances.
 
-The 2026 net worth figure is framed as a commonly cited estimate range based on public trackers, disclosure-related reporting, salary history, and documented income streams such as book earnings. It does not assume full visibility into private contracts, exact household asset balances, taxes, liabilities, or undisclosed holdings.
+The 2026 net worth figure in this version is anchored primarily to Quiver Quantitative's live estimate, supported by disclosure-related reporting, salary history, and documented income streams such as book earnings. It does not assume full visibility into private contracts, exact household asset balances, taxes, liabilities, or undisclosed holdings.
 
-Where newer information was needed, the update focused on verifiable 2026 political activity, public reporting on book income, and public trading-disclosure coverage rather than speculative future-growth calculations. In practice, that means the article uses the best current estimate range while still treating it as an estimate rather than a provable exact total.
+Where newer information was needed, the update focused on verifiable 2026 political activity, public reporting on book income, and public trading-disclosure coverage rather than speculative future-growth calculations. In practice, that means the article uses the best current named estimate while still treating it as an estimate rather than a provable exact total.
 ```
 
 ## Sources used
 
-- Quiver Quantitative article snippet reporting an estimated net worth of about `$6.8M` as of January 29, 2026: `https://www.quiverquant.com/news/LendingClub%252BCorporation%2528LC%2529%252BStock%252BFalls%252Bon%252BQ4%252B2025%252BEarnings`
-- PaperPanda politician page showing Katie Britt's trade history and an estimated net worth display around `$6.9M`: `https://paperpanda.io/politician/B001319`
+- Quiver politician net-worth page: `https://www.quiverquant.com/congresstrading/politician/Katie%20Boyd%20Britt-B001319/net-worth`
+- Quiver article snippet showing `$6.8M` net worth and `$3.8M` in tracked public assets as of March 24, 2026: `https://www.quiverquant.com/news/Press%2BRelease%253A%2BKean%2Band%2BMcGarvey%2BPropose%2BLegislation%2Bto%2BExpedite%2BVeterans%2527%2BFlight%2BTraining`
+- Quiver article snippet showing `$6.8M` net worth and `$3.8M` in tracked public assets as of March 26, 2026: `https://www.quiverquant.com/news/Blackstone%2B%2524250M%2BUAE%2BGaming%2BInvestment%2BComes%2Bas%2BLobbying%2BSpend%2BSurges%2Bin%2B2025`
+- Quiver article snippet showing `$7.0M` net worth and `$4.0M` in tracked public assets as of February 26, 2026: `https://www.quiverquant.com/news/Press%2BRelease%253A%2BLindsey%2BGraham%2BAnnounces%2B%2524150%2BMillion%2BFunding%2Bfor%2BSouth%2BCarolina%2BInfrastructure%2Band%2BDevelopment%2BProjects`
 - Quiver trade roundup showing newly disclosed trades including Apple and Amazon: `https://www.quiverquant.com/news/Congress%2BTrade%3A%2BSenator%2BKatie%2BBoyd%2BBritt%2BJust%2BDisclosed%2BNew%2BStock%2BTrades`
 - Yahoo News article on delayed disclosure of 22 spouse-linked stock trades: `https://www.yahoo.com/news/articles/katie-britt-discloses-husband-banking-230553143.html`
 - Official Senate salary history: `https://www.senate.gov/senators/SenateSalariesSince1789.htm`
