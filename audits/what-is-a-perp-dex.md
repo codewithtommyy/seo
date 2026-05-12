@@ -22,6 +22,14 @@ Collateral and margin are the second major layer. Users post assets to open posi
 
 That sounds straightforward, but in reality these details shape the entire user experience. A fast order-book venue with deep liquidity feels completely different from an oracle-based venue designed to reduce some of the noise and gameability of thinner books.
 
+| Core Layer | What It Does | Why It Matters |
+|---|---|---|
+| Collateral | Assets posted to support a position | Determines how much adverse price movement the account can survive |
+| Margin | Sets opening and maintenance thresholds | Controls leverage and liquidation distance |
+| Funding | Keeps perp price near spot | Creates an ongoing cost or payment between longs and shorts |
+| Pricing Engine | Calculates mark price and execution behavior | Shapes slippage, liquidation logic, and trust assumptions |
+| Liquidation System | Reduces or closes unhealthy positions | Protects the protocol, but can be harsh for traders |
+
 ## What Are Perpetual Futures?
 
 Perpetual futures are derivative contracts that let traders speculate on an asset’s price without holding the underlying token and without dealing with a fixed expiry date. This is why they are so widely used for directional trading and hedging in crypto. A trader can post collateral, open a long or short position, and keep that position open indefinitely as long as the account can satisfy margin requirements and funding costs.
@@ -46,11 +54,25 @@ Hyperliquid sits at the other end of the spectrum. The public [Hyperliquid docs]
 
 Aster is more unusual. The public [Aster docs](https://docs.asterdex.com/) describe multiple trading modes and privacy-oriented mechanics such as hidden orders, which puts the platform in a different strategic lane. It is not just trying to be another perpetual exchange. It is trying to argue that privacy, order protection, and execution design are themselves product differentiators. That thesis lines up with Coincu’s coverage of [Aster’s rebrand toward decentralized perpetual trading](https://coincu.com/press-release/aster-emerges-astherus-rebrands-to-lead-decentralized-perpetual-trading/) and the later [Aster CEO interview on institutional adoption and privacy](https://coincu.com/news/aster-ceo-interview-l1-institutional-adoption-2026/).
 
+| Platform | Model | Best For | Main Tradeoff |
+|---|---|---|---|
+| dYdX | Appchain order book | Traders who want a futures-style market structure | More complex for less experienced users |
+| GMX | Oracle + liquidity pool | DeFi-native users who want simpler leveraged exposure | Less like a classic trading terminal |
+| Hyperliquid | Fully onchain order book | Active traders focused on execution quality | More infrastructure dependence |
+| Aster | Multi-mode, privacy-focused perp DEX | Users who care about hidden orders and privacy | More product complexity by mode |
+
 ## Market Position and Why It Matters
 
 One reason the perp DEX conversation has changed so much is that some of these venues are no longer niche products. Public dashboards such as the [DefiLlama Hyperliquid perps page](https://defillama.com/perps/hyperliquid) show how large onchain derivatives activity has become in volume terms. That matters because product design starts to matter more, not less, as venues scale. Once a DEX is processing billions in trading flow, users stop evaluating it as a simple DeFi experiment and start evaluating it as a serious market venue.
 
 That is also why it helps to look at adjacent coverage rather than only the platform’s own pitch. Coincu’s [GMX ecosystem overview](https://coincu.com/gmx-ecosystem-overview/) is useful for understanding how a protocol can become a broader liquidity and composability layer, while the [GMX Ethereum mainnet integration story](https://coincu.com/ethereum/gmx-ethereum-mainnet-integration/) shows how access and network reach still shape adoption. For readers who want more category context beyond these four names, Coincu’s [Drift Protocol review](https://coincu.com/other-reviews/drift-protocol-review/) also shows how wide perpetual DEX design has become.
+
+| Platform | 24h Perp Volume | 30d Perp Volume | What the Numbers Suggest |
+|---|---:|---:|---|
+| Hyperliquid | ~$6.64B | ~$312.93B | Strong execution demand and deep market traction |
+| Aster | ~$8.54B | ~$306.55B | Large recent activity and aggressive growth positioning |
+| dYdX | ~$178.83M | ~$7.57B | Smaller volume footprint, but still relevant for serious derivatives users |
+| GMX | ~$215.52M | ~$5.74B | Lower raw volume, but durable DeFi leverage product-market fit |
 
 ## My Experience Interpreting the Perp DEX Market
 
@@ -64,6 +86,13 @@ Aster, meanwhile, reads like a product built around a sharper thesis: that infor
 
 So the practical conclusion is not that one venue wins universally. It is that users should stop grouping perp DEXs together as if they are the same product. They are not. Some are built for active traders. Some are built for DeFi users who want access to leverage. Some are built around privacy and differentiated execution. If you use the wrong framework to judge them, you will probably choose the wrong platform.
 
+| If You Are... | Strongest Fit | Why |
+|---|---|---|
+| A fast-paced active trader | Hyperliquid | It is built around speed, depth, and exchange-like execution |
+| A structured derivatives user | dYdX | It offers a more futures-native framework and trading logic |
+| A DeFi-native leverage user | GMX | It lowers some of the friction of order-book trading |
+| A privacy-conscious onchain trader | Aster | It differentiates through hidden orders and mode design |
+
 ## Perp DEX vs CEX
 
 This is where the category often gets oversimplified. A perp DEX is not simply “a CEX without KYC.” That misses the real tradeoff.
@@ -71,6 +100,15 @@ This is where the category often gets oversimplified. A perp DEX is not simply �
 On a perp DEX, the strongest advantage is self-custody. The user does not need to leave assets sitting on a centralized platform and hope that the venue remains solvent, accessible, and cooperative. That is a meaningful difference. At the same time, the burden shifts back to the user. Wallet security, chain selection, approvals, bridging, and operational mistakes become much more relevant.
 
 A CEX still wins in several practical areas: smoother onboarding, easier fiat support, standardized interfaces, and a more predictable support structure. But a perp DEX wins for users who care about controlling assets directly and operating inside onchain systems rather than around them.
+
+| Category | Perp DEX | CEX |
+|---|---|---|
+| Custody | Self-custody wallet | Exchange custody |
+| Onboarding | Harder | Easier |
+| KYC | Often lighter or front-end dependent | Usually required |
+| Transparency | Higher protocol-level visibility | Depends on exchange disclosures |
+| Support | Limited or protocol-led | Centralized customer support |
+| Main Risk Shape | Smart contract, oracle, chain, and wallet risk | Counterparty, custody, and regulatory risk |
 
 ## Security Analysis
 
